@@ -1,8 +1,5 @@
 # Energy Systems & Data Analytics Portfolio
 
-This repository contains selected projects focused on energy systems modelling, 
-renewable energy analytics, and net-zero technologies.
-
 ## Focus Areas
 - Physics-based energy system modelling
 - Renewable energy performance analysis
